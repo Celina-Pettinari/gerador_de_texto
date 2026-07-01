@@ -10,7 +10,6 @@ Por isso, quanto maior o texto, mais legal.
 O programa em si recria o que foi digitado e gera uma analize sobre, o que o torna simples. Mas, como o intuito era de aprendizado de C, tentei torna-lo mais complexo, criando uma regra de usar apenas bibliotecas essenciais, fazendo tudo do zero, e implementar caracteres multi-bytes a biblioteca locale.h.
 
 <br>
-<br>
 
 ## Usar Sem Baixar
 1 - acesse: https://onlinegdb.com/KPmqxH944  <br>
