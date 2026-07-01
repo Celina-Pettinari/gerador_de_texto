@@ -6,10 +6,10 @@ Um programa que foi feito com a idéia de simular a digitação acelerada em fil
 Por isso, quanto maior o texto, mais legal.
 
 <br>
-<br>
 
 O programa em si recria o que foi digitado e gera uma analize sobre, o que o torna simples. Mas, como o intuito era de aprendizado de C, tentei torna-lo mais complexo, criando uma regra de usar apenas bibliotecas essenciais, fazendo tudo do zero, e implementar caracteres multi-bytes a biblioteca locale.h.
-  
+
+<br>
 <br>
 
 ## Usar Sem Baixar
